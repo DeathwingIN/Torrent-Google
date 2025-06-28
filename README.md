@@ -11,11 +11,13 @@ This is a simple tool to download torrent files directly to your Google Drive us
 
 ## ⚙️ How to Use
 
-1.  **Open in Google Colab:** Click the "Open in Colab" button in the repository.
+1.  **Open in Google Colab:** Click the "Open in Colab" button in the repository. 
 2.  **Run the Cells:** Run the first few cells to install the necessary tools and connect your Google Drive.
 3.  **Enter the Link:** Paste your magnet link or torrent file URL into the text box.
 4.  **Start Downloading:** Click the "Start Download" button.
 5.  **Check Your Drive:** Your files will appear in a folder named `Torrents` in your Google Drive.
+   
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeathwingIN/Torrent-Google/blob/main/Torrent-GDrive.ipynb)
 
 ## ✅ Features
 
